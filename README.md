@@ -27,3 +27,5 @@ In order to play the game, follow the steps:
 * Make sure Java Runtime Environment (JRE) or Java Development Kit (JDK) is installed on your PC and properly configured.
 * Download the `AdvancedPongGame.jar` file.
 * Run the command: `java -jar AdvancedPongGame.jar`.
+
+Good Luck!
